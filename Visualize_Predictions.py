@@ -8,8 +8,9 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import chart_studio
-username = 'jeffj0110'
-api_key = '4oajckjUAa6sPUhgmSok'
+# Username and api keys need to be obtained from Plotly by registering.
+username = 'xxxxxxx'
+api_key = 'xxxxxxxxxxx'
 
 chart_studio.tools.set_credentials_file(username=username, api_key=api_key)
 
